@@ -1,4 +1,5 @@
 
+// @ts-nocheck
 import * as Vscode from 'vscode';
 import { CommandUtils } from '../../utils/utils';
 

@@ -4,6 +4,7 @@ Extension/*.vsix
 Extension/package-lock.json
 TestWorkspaces/**/Debug
 TestWorkspaces/**/settings
+.vscode
 .vscode-test
 venv/
 docs/_build
